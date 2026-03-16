@@ -24,15 +24,18 @@ with NVIDIA AI Aerial / 6G Developer Program.
 
 ## Tools / SDKs / Resources
 
-| Tool / SDK / Resource          | Version / Notes                                                                       |
-| ------------------------------ | ------------------------------------------------------------------------------------- |
-| CUDA-Accelerated RAN           | Latest available on NGC / GitHub                                                      |
-| Sionna                         | Latest stable                                                                         |
-| Aerial Framework               | Latest stable                                                                         |
-| NVIDIA GPU-Optimized AMI (AWS) | Marketplace AMI ID: 676eed8d-dcf5-4784-87d7-0de463205c17 (optional / region-specific) |
-| AODT Installer                 | Version 1.4.1                                                                         |
-| Python                         | 3.11+                                                                                 |
-| CUDA Toolkit                   | 12.x (to match AMI / RAN requirements)                                                |
+| Tool / SDK / Resource          | Version / Notes                                                                                   |
+| ------------------------------ | ------------------------------------------------------------------------------------------------- |
+| CUDA-Accelerated RAN           | Latest available on NGC / GitHub; full containerized RAN software stack for AI-native 6G networks |
+| Sionna Neural Radio Framework  | Latest stable; open-source for simulating 6G link-level communications and AI model training      |
+| Aerial Framework               | Latest stable; high-level framework for AI-native 6G network development                          |
+| Aerial Omniverse™ Digital Twin | Tools for physically accurate digital twin simulations of 6G networks (high-speed ray tracing)    |
+| NVIDIA GPU-Optimized AMI (AWS) | Marketplace AMI ID: 676eed8d-dcf5-4784-87d7-0de463205c17 (optional / region-specific)             |
+| AODT Installer                 | Version 1.4.1                                                                                     |
+| Python                         | 3.11+                                                                                             |
+| CUDA Toolkit                   | 12.x (compatible with AMI / RAN requirements)                                                     |
+| NGC Catalog                    | Full access to containers, SDKs, datasets, and org management                                     |
+| NVIDIA Aerial Forum            | Direct communication and collaboration with NVIDIA team                                           |
 
 ---
 

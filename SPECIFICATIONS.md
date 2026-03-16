@@ -8,7 +8,7 @@ with NVIDIA AI Aerial / 6G Developer Program.
 ## Program Access
 
 - **Program**: NVIDIA 6G Developer Program / AI Aerial
-- **Role**: Partner
+- **Role**: Key Partner (as designated by NVIDIA 6G Developer Program)
 - **NGC Access**: Full access to the [NGC Catalog](https://catalog.ngc.nvidia.com/), including downloading and deploying AI Aerial containers, SDKs, and datasets.
 - **Organization Management**: Can manage your program-specific org and resources on NGC.
 - **Software & Tools Access**:

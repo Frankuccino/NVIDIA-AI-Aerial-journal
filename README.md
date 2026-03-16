@@ -5,6 +5,9 @@ This repository documents my learning journey and research around
 RAN, wireless network optimization, and AI‑enabled telecommunication
 technologies.
 
+The goal is to understand how GPU acceleration, digital twins,
+and neural radio frameworks will shape next-generation telecom systems.
+
 ---
 
 ## Program Overview
@@ -19,10 +22,6 @@ This is the central hub for:
 - Related SDKs and resources
 - Industry announcements
 - Project references and telemetry
-
-For environment setup, tools, and SDK details, see:
-
-📄 [SPECIFICATIONS](./SPECIFICATIONS.md)
 
 ---
 
@@ -84,12 +83,26 @@ For environment setup, tools, and SDK details, see:
 
 ```
 ai-aerial-learning-journal/
-├── SPECIFICATIONS.md # environment, programs, SDKs
-├── README.md # overview + resource links
-├── topics/ # learning goals / topics to track
-├── articles/ # article links + summaries
-├── research-papers/ # research papers + notes
-└── notes/ # optional learning log and insights
+├── architecture
+│   ├── ai-native-networks.md
+│   ├── digital-twins.md
+│   ├── glossary.md
+│   └── ran-architecture.md
+├── ecosystem
+│   ├── aerial-framework.md
+│   ├── ai-aerial-overview.md
+│   ├── cuda-accelerated-ran.md
+│   └── sionna.md
+├── experiments
+│   └── README.md
+├── README.md
+├── research
+│   ├── articles.md
+│   ├── industry-insights.md
+│   └── papers.md
+└── SPECIFICATIONS.md
 ```
 
 ## Specifications
+
+For Program details, environment setup, tools, and SDK details, see: [SPECIFICATIONS.md](./SPECIFICATIONS.md)
